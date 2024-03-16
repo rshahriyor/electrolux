@@ -1,0 +1,264 @@
+.top {
+    background-color: #4d4d4d;
+}
+.tr_duration {
+    transition-duration: 0.5s;
+}
+.phone_number:hover {
+    color: #62BFC4;
+}
+.top_icons:hover {
+    color: #000;
+}
+.top-2 {
+    background-color: #f3f3f3;
+}
+.input_search {
+    outline: none;
+    width: 311px;
+}
+.input_search::placeholder {
+    font-size: 13px;
+}
+.search_icon {
+    color: #62BFC4;
+}
+.account_bg {
+    background-color: #8482CB;
+    transform: skew(-20deg, 0deg);
+    padding: 40px;
+}
+.account_icons {
+    font-size: 13px;
+}
+.dollar {
+    color: #62BFC4;
+}
+.fs-13px {
+    font-size: 12px;
+}
+.home_menu {
+    background-color: #62BFC4;
+    padding: 17px 12px;
+}
+.bg_menu_hover {
+    transition-duration: 0.5s;
+}
+.bg_menu_hover:hover {
+    background-color: #62BFC4;
+    padding: 9px 0px;
+    border-radius: 0px;
+}
+.text_menu {
+    color: #000;
+}
+.bg_menu_hover:hover .text_menu {
+    color: white;
+}
+.cart_icon {
+    color: #62BFC4;
+    font-size: 24px;
+}
+.bg_on-st {
+    background-color: #62BFC4;
+    border: none;
+    top: 53px;
+}
+.text_on-st {
+    color: white;
+    transition-duration: 0.5s;
+}
+.text_on-st:hover {
+    color: #000;
+}
+.iphone {
+    top: 150px;
+    left: 80px;
+    width: 270px;
+}
+.samsung {
+    top: 150px;
+    left: 80px;
+    width: 300px;
+}
+.mavic {
+    top: 150px;
+    left: 80px;
+    width: 310px;
+}
+h6 {
+    font-size: 18px;
+}
+.drop_menu {
+    line-height: 30px;
+    font-family: sans-serif;
+    display: none;
+    left: -59px;
+    top: 52px;
+    width: 1310px;
+}
+.on_st_hover:hover .drop_menu {
+    display: flex;
+    transition-duration: 0.5s;
+}
+.list-group-item {
+    width: 280px;
+    font-family: sans-serif;
+    font-size: 14px;
+    padding: 20px 0px 20px 20px;
+    transition-duration: 0.5s;
+    border: 1px #F3F3F3 solid;
+}
+.list-group-item:hover {
+    background-color: #62BFC4;
+}
+.top-categ {
+    background-color: #62BFC4;
+    padding: 15px 0px 15px 29px;
+    font-size: 18px;
+    width: 280px;
+}
+/* .gazmol {
+    background-color: #62BFC4;
+} */
+/* .tv {
+    background-color: #8482CB;
+} */
+.btn-shop {
+    background-color: #FF4141;
+    transition-duration: 0.5s;
+    font-size: 13px;
+}
+.btn-shop-gazmol {
+    background-color: #62BFC4;
+}
+.btn-shop-tv {
+    background-color: #855FA8;
+}
+.btn-shop:hover {
+    background-color: white;
+}
+.btn-shop:hover .text-btn-shop {
+    color: #000;
+}
+.new-arrivals {
+    color: #62BFC4;
+}
+.new-arrivals:hover {
+    color: #62BFC4;
+}
+.text-middle {
+    font-size: 17px;
+}
+.a {
+    top: 50px;
+    left: 33px;
+    width: 40%;
+}
+.b {
+    top: 50px;
+    left: 33px;
+    width: 50%;
+}
+.fotos-middle {
+    /* width: 285px; */
+    background-color: #F7F5F6;
+    transition-duration: 1s;
+}
+.fotos-middle:hover {
+    opacity: 0.5;
+}
+.fotos-middle-middle {
+    padding: 37px 0px 36px 0px;
+}
+.badges-middle {
+    background-color: #FF4141;
+    padding: 12px 22px;
+}
+.fs-14px {
+    font-size: 14px;
+}
+.bgIcons {
+    background-color: #B0DFE1;
+    padding: 1px 7px;
+}
+a {
+    text-decoration: none;
+}
+.viewAllProducts {
+    color: #2F2F2F;
+}
+.btnPS {
+    background-color: #855FA8;
+}
+.PS {
+    top: 200px;
+    left: 100px;
+}
+.nutri {
+    top: 370px;
+    right: 40px;
+}
+.telegram {
+    background-color: #90D7EB;
+    transform: skew(-10deg, 0deg);
+}
+.rocket {
+    background-color: #42ADD7;
+    transform: skew(-10deg, 0deg);
+}
+.like {
+    background-color: #8482CB;
+    transform: skew(-10deg, 0deg);
+}
+.telegramText {
+    bottom: 70px;
+    left: 40px;
+    line-height: 31px;
+}
+.man {
+    width: 360px;
+}
+.textMiddleFinish {
+    color: #2F2F2F;
+}
+.btnReadMore {
+    background-color: #62BFC4;
+    font-size: 11px;
+}
+.btnReadMore:hover {
+    background-color: #855FA8;
+}
+.fotoMiddleFinish:hover {
+    transform: scale(1.1);
+}
+.footer {
+    background-color: #2F2F2F;
+}
+.textFooterHome {
+    color: white;
+    transition-duration: 0.5s;
+}
+.textFooter {
+    color: #767676;
+    transition-duration: 0.5s;
+}
+.textFooterHome:hover {
+    color: black;
+}
+.textFooter:hover {
+    color: black;
+}
+.lastFooter {
+    background-color: #292929;
+}
+.textLastFooter {
+    color: #767676;
+}
+.dollar1 {
+    color: #62BFC4;
+}
+.dollar1:hover {
+    color: white;
+    cursor: pointer;
+}
